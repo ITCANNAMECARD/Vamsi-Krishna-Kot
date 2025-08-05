@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Haridas;Vivek;;;
+FN: Vivek Haridas 
+ORG:ITCAN;
+TITLE:General Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:vivek@itcan.biz
+TEL;type=WORK;type=VOICE:+65 8161 3031
+item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:www.itcan.biz
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
